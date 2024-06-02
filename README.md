@@ -1,7 +1,7 @@
 # Project-Rubicon
 
 
-# Mathematical Methods for Applications of Machine Intelligence: Corporate Law in New York 
+# Machine Intelligence: Applications for Corporate Lawyers
 
 ## Overview
 
